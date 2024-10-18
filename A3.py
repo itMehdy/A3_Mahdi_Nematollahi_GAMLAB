@@ -1,6 +1,14 @@
 # -*- coding: utf-8 -*-
 """
-Created on Thu Oct 17 20:04:24 2024
+APM:
+
+salam daryaft shod besiar awli
+moafagh bashid
+
+
+
+
+Created onThu Oct 17 20:04:24 2024
 
 @author: Admin
 """
